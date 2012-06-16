@@ -5,7 +5,7 @@
   <meta http-equiv="pragma" content="no-cache">
   <meta http-equiv="cache-control" content="no-cache">
   <meta http-equiv="expires" content="0">
-  <title>上海金融学院金融理财综合实验教学系统</title>
+  <title>金融理财综合实验教学系统</title>
   <link href="${base}/static/css/default.css" rel="stylesheet" type="text/css">
   <link href="${base}/static/css/messages.css" rel="stylesheet" type="text/css">
   <link href="${base}/static/css/toolBar.css" rel="stylesheet" type="text/css">
